@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+
+}
+
+table {
+
+    margin: auto;
+    size: auto;
+}
+
+th {
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.inp {
+    text-align: center;
+    background-color: yellow;
+font-size: 20px;
+}
+
+td {
+    padding: 10px;
+    background-color: #2668a2;
+    font-size: 20px;
+}
+.PK{
+    background-color:#cd6767;
+    font-weight:700
+}
